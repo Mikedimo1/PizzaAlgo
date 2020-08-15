@@ -3,3 +3,5 @@
 3. Device on the Pizza
 4. Call the Pizza Place
 5. Place my Order
+6. Choose payment method
+7. Eat
